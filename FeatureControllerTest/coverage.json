@@ -1,0 +1,246 @@
+{
+  "FeatureData.dll": {
+    "C:\\Users\\6145206\\source\\repos\\fnf-tritech\\FeatureAPI\\FeatureData\\Controllers\\CommonController.cs": {
+      "CommonController": {
+        "System.Void CommonController::.ctor(IFeatureRepository)": {
+          "Lines": {
+            "10": 9,
+            "11": 9,
+            "12": 9,
+            "13": 9
+          },
+          "Branches": []
+        }
+      },
+      "CommonController/<GetFeature>d__2": {
+        "System.Void CommonController/<GetFeature>d__2::MoveNext()": {
+          "Lines": {
+            "33": 5,
+            "35": 5,
+            "36": 5,
+            "38": 3,
+            "39": 2,
+            "40": 2,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "49": 1,
+            "51": 2,
+            "52": 2,
+            "53": 2,
+            "55": 5
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 38,
+              "Offset": 179,
+              "EndOffset": 199,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "CommonController/<SearchFeature>d__3": {
+        "System.Void CommonController/<SearchFeature>d__3::MoveNext()": {
+          "Lines": {
+            "59": 4,
+            "61": 4,
+            "62": 4,
+            "64": 3,
+            "65": 1,
+            "66": 1,
+            "70": 2,
+            "71": 2,
+            "72": 2,
+            "73": 2,
+            "74": 2,
+            "75": 2,
+            "76": 2,
+            "79": 1,
+            "80": 1,
+            "82": 1,
+            "84": 4
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 64,
+              "Offset": 173,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\6145206\\source\\repos\\fnf-tritech\\FeatureAPI\\FeatureData\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "1": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "25": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 152,
+              "EndOffset": 154,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 152,
+              "EndOffset": 172,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "FeatureLibrary.dll": {
+    "C:\\Users\\6145206\\source\\repos\\fnf-tritech\\FeatureAPI\\FeatureLibrary\\DtoModels\\FeatureEntity.cs": {
+      "FeatureEntity": {
+        "System.String FeatureEntity::get_FeatureName()": {
+          "Lines": {
+            "17": 18
+          },
+          "Branches": []
+        },
+        "System.String FeatureEntity::get_Value()": {
+          "Lines": {
+            "19": 18
+          },
+          "Branches": []
+        },
+        "System.Void FeatureEntity::.ctor()": {
+          "Lines": {
+            "5": 10,
+            "6": 10,
+            "8": 10
+          },
+          "Branches": []
+        },
+        "System.Void FeatureEntity::.ctor(System.String,System.Int32)": {
+          "Lines": {
+            "10": 4,
+            "11": 4,
+            "12": 4,
+            "13": 4,
+            "14": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\6145206\\source\\repos\\fnf-tritech\\FeatureAPI\\FeatureLibrary\\Reposiotry\\FeatureRepository.cs": {
+      "FeatureRepository": {
+        "System.Void FeatureRepository::.ctor(System.String,System.String)": {
+          "Lines": {
+            "17": 3,
+            "18": 3,
+            "19": 3,
+            "20": 2,
+            "21": 2,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 19,
+              "Offset": 16,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "FeatureRepository/<RetrieveFeatureAsync>d__2": {
+        "System.Void FeatureRepository/<RetrieveFeatureAsync>d__2::MoveNext()": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      },
+      "FeatureRepository/<SearchFeatureAsync>d__3": {
+        "System.Void FeatureRepository/<SearchFeatureAsync>d__3::MoveNext()": {
+          "Lines": {
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
